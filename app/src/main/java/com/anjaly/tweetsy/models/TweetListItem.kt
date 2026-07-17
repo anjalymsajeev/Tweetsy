@@ -1,0 +1,6 @@
+package com.anjaly.tweetsy.models
+
+data class TweetListItem(
+    val category: String,
+    val text: String
+)
